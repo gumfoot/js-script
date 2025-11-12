@@ -20,5 +20,5 @@ async function getUsers(){ //function to get users. Async(takes time)
     console.log(filteredUsers); //prints filtered users.
 }
 
-getUsers()
+getUsers() //calls the function.
 
